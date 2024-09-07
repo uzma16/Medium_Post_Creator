@@ -9,7 +9,7 @@ class NLPTool:
     def generate_text(topic_keywords):
         """Generates text based on the given topic keywords using an updated AI chat model."""
         # api_key = os.environ.get('OPENAI_API_KEY')  # Ensure your API key is stored in environment variables
-        api_key = "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"
+        api_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
         # print(api_key)
         endpoint = "https://api.openai.com/v1/chat/completions"  # Correct endpoint for chat models
 
